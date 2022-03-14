@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chest X-Ray Covid Classifier</string>
+    <string name="upload">Upload</string>
+    <string name="save">Save</string>
+    <string name="results">Results:</string>
+    <string name="x_ray_image">X-Ray Image</string>
+    <string name="read_external_storage_required">Read external storage permission is required to select an image</string>
+    <string name="read_external_storage_permission_denied">Can not select an image because the user denied the read external storage permission request.</string>
+    <string name="ok">OK</string>
+    <string name="covid_positive">Results: Covid Positive</string>
+    <string name="normal">Results: Normal</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">MSOE GPA Calculator</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="courseName">Course Name</string>
+    <string name="credits">Credits</string>
+    <string name="grade">Grade</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">Channel Description</string>
+    <string name="sms_send_required">SMS send permission is required to send an SMS text message</string>
+    <string name="ok">OK</string>
+    <string name="sms_send_permission_denied">Can not send an SMS text message because the user denied the SMS send permission request.</string>
+    <string name="clear">Clear</string>
+</resources>
